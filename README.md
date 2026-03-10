@@ -221,3 +221,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pi-dev-0&theme=tokyonight" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+</p>
